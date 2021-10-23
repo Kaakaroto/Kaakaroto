@@ -16,13 +16,6 @@
 <a href= https://github.com/Kaakaroto?tab=repositories&q=&type=&language=google&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/google.svg'> </a>
 <a href= https://github.com/Kaakaroto?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
 
-
-
 <h2>Google Badge</h2>
-<p><a href="https://www.qwiklabs.com/public_profiles/b90e6d95-ef58-45a6-bfeb-9f6b5af5448a">Kakaroto Qwiklabs</a></p>
-
-
-<p><img src="https://cdn.qwiklabs.com/eDNTrtKj%2BqMfiuhqn6nA8quJGgcjTNHN%2F%2BTmpqIn0Sc%3D" width="150" height="135" /></p> <img src="https://cdn.qwiklabs.com/JpdCP3HGjEm%2FDqv9WCJ%2ByQGJo%2FmRiWtVruq%2Bkivi8s0%3D" width="150" height="135" /></p>
-
-
-
+<p style="text-align: left;"><a href="https://www.qwiklabs.com/public_profiles/b90e6d95-ef58-45a6-bfeb-9f6b5af5448a">Kakaroto Qwiklabs</a></p>
+<p><img src="https://cdn.qwiklabs.com/eDNTrtKj%2BqMfiuhqn6nA8quJGgcjTNHN%2F%2BTmpqIn0Sc%3D" width="150" height="135" /> <img src="https://cdn.qwiklabs.com/JpdCP3HGjEm%2FDqv9WCJ%2ByQGJo%2FmRiWtVruq%2Bkivi8s0%3D" width="150" height="135" /></p>
