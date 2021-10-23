@@ -22,7 +22,7 @@
 <p><a href="https://www.qwiklabs.com/public_profiles/b90e6d95-ef58-45a6-bfeb-9f6b5af5448a">Kakaroto Qwiklabs</a></p>
 
 
-<p><img src="https://cdn.qwiklabs.com/eDNTrtKj%2BqMfiuhqn6nA8quJGgcjTNHN%2F%2BTmpqIn0Sc%3D" width="150" height="135" /></p> <img src="https://www.cloudskillsboost.google/public_profiles/b90e6d95-ef58-45a6-bfeb-9f6b5af5448a/badges/1344259" width="150" height="135" /></p>
+<p><img src="https://cdn.qwiklabs.com/eDNTrtKj%2BqMfiuhqn6nA8quJGgcjTNHN%2F%2BTmpqIn0Sc%3D" width="150" height="135" /></p> <img src="https://cdn.qwiklabs.com/JpdCP3HGjEm%2FDqv9WCJ%2ByQGJo%2FmRiWtVruq%2Bkivi8s0%3D" width="150" height="135" /></p>
 
 
 
