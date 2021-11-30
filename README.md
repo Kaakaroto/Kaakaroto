@@ -22,7 +22,7 @@
 <p>&nbsp;</p>
 
 <h2>Huawei ITC Academy -&nbsp; Lista de Certificados</h2>
-<hr />
+
 <p>&nbsp;</p>
 <ul>
 <li><a href="https://ilearningx.huawei.com/portal/certificates/341c03e13906457398bed202e15e140e">Programa&ccedil;&atilde;o em Python direcionada para Intelig&ecirc;ncia artificial</a></li>
