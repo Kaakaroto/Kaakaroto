@@ -21,7 +21,7 @@
 <p><img src="https://cdn.qwiklabs.com/eDNTrtKj%2BqMfiuhqn6nA8quJGgcjTNHN%2F%2BTmpqIn0Sc%3D" width="149" height="135" /> <img src="https://cdn.qwiklabs.com/znPFC7VEHnvvrQzRpryh2sUTnfeIluXXbbyrj9oFSD0%3D" alt="" width="149" height="135" /> <img src="https://cdn.qwiklabs.com/%2Ba%2BLfd1vxwXnr5ZOOv6ikKOE0QDqy62aV21r0l4b4ks%3D" alt="" width="149" height="135" /> <img src="https://cdn.qwiklabs.com/d8GQx%2FM2wXW44CgxdyBWoc3dGdNpgLQMN1bFvePgZPA%3D" alt="" width="149" height="135" /> <img src="https://cdn.qwiklabs.com/KKo25c6cDv5W1cfAH%2BA3bUTAb3yWJwePovj3iDvmI8Q%3D" alt="" width="149" height="135" /> <img src="https://cdn.qwiklabs.com/Cbalaga6hDfK24%2FP3qKUmSNiXOY1aHbsnj2nRETk4Cg%3D" alt="" width="149" height="135" /><img src="https://cdn.qwiklabs.com/JpdCP3HGjEm%2FDqv9WCJ%2ByQGJo%2FmRiWtVruq%2Bkivi8s0%3D" width="149" height="135" />&nbsp;</p>
 <p>&nbsp;</p>
 
-<h3><span style="background-color: #000080; color: #ffffff;"><strong>Huawei ITC Academy -&nbsp; Lista de Certificados</strong></span></h3>
+<h2>Huawei ITC Academy -&nbsp; Lista de Certificados</h2>
 <hr />
 <p>&nbsp;</p>
 <ul>
