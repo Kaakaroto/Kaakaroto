@@ -28,13 +28,12 @@
 <li><a href="https://ilearningx.huawei.com/portal/certificates/341c03e13906457398bed202e15e140e">Programa&ccedil;&atilde;o em Python direcionada para Intelig&ecirc;ncia artificial</a></li>
 </ul>
 <blockquote>
-<p style="padding-left: 40px;"><br /><span style="color: #808080;">Com uma abordagem desde a sintaxe b&aacute;sica at&eacute; o uso avan&ccedil;ado do Python, como express&otilde;es regulares, erros e exce&ccedil;&otilde;es, bibliotecas e estrutura de dados, focando tamb&eacute;m e bibliotecas bases para o estudo / aplica&ccedil;&atilde;o de intelig&ecirc;ncia artificial como Numpy, Pandas, Matplotlib, Scipy, Scikit-learn.</span></p>
+<p style="padding-left: 40px;"><span style="color: #808080;">Com uma abordagem desde a sintaxe b&aacute;sica at&eacute; o uso avan&ccedil;ado do Python, como express&otilde;es regulares, erros e exce&ccedil;&otilde;es, bibliotecas e estrutura de dados, focando tamb&eacute;m e bibliotecas bases para o estudo / aplica&ccedil;&atilde;o de intelig&ecirc;ncia artificial como Numpy, Pandas, Matplotlib, Scipy, Scikit-learn.</span></p>
 </blockquote>
 <p>&nbsp;</p>
 <ul>
 <li><a href="https://ilearningx.huawei.com/portal/certificates/ae3e069908754321b53f8b0b9b4f4a5b">Certifica&ccedil;&atilde;o Fundamento da Matem&aacute;tica direcionada a Intelig&ecirc;ncia</a></li>
 </ul>
-<p>&nbsp;</p>
 <blockquote>
 <p style="padding-left: 40px;"><span style="color: #808080;">Matem&aacute;tica &eacute; um conhecimento b&aacute;sico indispens&aacute;vel para o aprendizado da tecnologia de Intelig&ecirc;ncia Artificial.</span><br /><br /><span style="color: #808080;">Ainda que todo calculo seja feito por fun&ccedil;&otilde;es, importante termos o dom&iacute;nio de tudo ser&aacute; executado em background, como por exemplo o conhecimento de opera&ccedil;&otilde;es de &aacute;lgebra linear, decomposi&ccedil;&atilde;o de matriz, probabilidade, estat&iacute;stica, estimativa teste de hip&oacute;teses entre outros, contribuindo para uma melhor parametriza&ccedil;&atilde;o e otimiza&ccedil;&atilde;o na solu&ccedil;&atilde;o do problema.</span></p>
 </blockquote>
