@@ -1,4 +1,4 @@
-<p><img src="https://github.com/Kaakaroto/Kaakaroto/blob/main/1638247039466.jpeg?raw=true" alt="" width="1100" height="275" /></p>
+<p><img src="https://github.com/Kaakaroto/Kaakaroto/blob/main/16a38247039466.jpeg?raw=true" alt="" width="1100" height="275" /></p>
 <h1>Hello World</h1>
 <p>Ol&aacute;! Sou o <strong>Felipe Silva</strong>, apaixonado por tecnologia, autodidata, din&acirc;mico e entusiasta a sempre aprender e reaprender algo novo todos os dias.</p>
 <p>Atualmente fa&ccedil;o gradua&ccedil;&atilde;o de Data Science e especializa&ccedil;&atilde;o em Engenharia em Data Cloud (Google), Intelig&ecirc;ncia artifical (Huawei) e a Forma&ccedil;&atilde;o de Cientista de dados na DSA - Data Science Academy, trabalho como Analista de Desenvolvimento Comercial Pleno na Cielo.</p>
