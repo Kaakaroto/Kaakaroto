@@ -1,35 +1,18 @@
 <h1>Hello World</h1>
-
-
 <p>Ol&aacute;! Sou o <strong>Felipe Silva</strong>, apaixonado por tecnologia, autodidata, din&acirc;mico e entusiasta a sempre aprender e reaprender algo novo todos os dias.</p>
-<p>Atualmente fa&ccedil;o gradua&ccedil;&atilde;o de Data Science e especializa&ccedil;&atilde;o em Engenharia em Data Cloud (Google), e Inteligência artifical (Huawei) trabalho como Analista no Desenvolvimento Comercial / Planejamento Estrat&eacute;gico da Cielo.</p>
-<p>Sigo meus estudos com o foco em Data Science, Linguagem de Programa&ccedil;&atilde;o e Data Cloud.</p>
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Kaakaroto?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Kaakaroto?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<a href= https://github.com/Kaakaroto?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/Kaakaroto?tab=repositories&q=&type=&language=azure&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg'> </a>
-<a href= https://github.com/Kaakaroto?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<a href= https://github.com/Kaakaroto?tab=repositories&q=&type=&language=discord&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
-<a href= https://github.com/Kaakaroto?tab=repositories&q=&type=&language=blogger&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blogger.svg'> </a>
-<a href= https://github.com/Kaakaroto?tab=repositories&q=&type=&language=google&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/google.svg'> </a>
-<a href= https://github.com/Kaakaroto?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
-
+<p>Atualmente fa&ccedil;o gradua&ccedil;&atilde;o de Data Science e especializa&ccedil;&atilde;o em Engenharia em Data Cloud (Google), Intelig&ecirc;ncia artifical (Huawei) e a Forma&ccedil;&atilde;o de Cientista de dados na DSA - Data Science Academy, trabalho como Analista de Desenvolvimento Comercial Pleno na Cielo.</p>
+<p>Sigo meus estudos com o foco em Data Science, DataOps e Data Cloud.</p>
+<p><strong>Segue o plano!</strong></p>
+<p>&nbsp;</p>
+<h2>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px" /></h2>
+<p><a href="https://github.com/Kaakaroto?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort="> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" width="32px" /> </a> <a href="https://github.com/Kaakaroto?tab=repositories&amp;q=&amp;type=&amp;language=pytorch&amp;sort="> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg" width="32px" /> </a> <a href="https://github.com/Kaakaroto?tab=repositories&amp;q=&amp;type=&amp;language=android&amp;sort="> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg" width="32px" /> </a> <a href="https://github.com/Kaakaroto?tab=repositories&amp;q=&amp;type=&amp;language=azure&amp;sort="> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg" width="32px" /> </a> <a href="https://github.com/Kaakaroto?tab=repositories&amp;q=&amp;type=&amp;language=bootstrap&amp;sort="> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg" width="32px" /> </a> <a href="https://github.com/Kaakaroto?tab=repositories&amp;q=&amp;type=&amp;language=discord&amp;sort="> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg" width="32px" /> </a> <a href="https://github.com/Kaakaroto?tab=repositories&amp;q=&amp;type=&amp;language=blogger&amp;sort="> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blogger.svg" width="32px" /> </a> <a href="https://github.com/Kaakaroto?tab=repositories&amp;q=&amp;type=&amp;language=google&amp;sort="> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/google.svg" width="32px" /> </a> <a href="https://github.com/Kaakaroto?tab=repositories&amp;q=&amp;type=&amp;language=linux&amp;sort="> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg" width="32px" /> </a></p>
 <h2>Google Cloud Hero - Data Skill Badge</h2>
-</p>
 <p><img src="https://cdn.qwiklabs.com/iqoqbXh1llVpQNK6r%2BKhLiSI1UnRIcdnWFT4waHKXk0%3D" alt="" width="150" height="150" /></p>
-
-
 <h2>Google Badge</h2>
-</p>
 <p style="text-align: left;"><a href="https://www.qwiklabs.com/public_profiles/b90e6d95-ef58-45a6-bfeb-9f6b5af5448a">Kakaroto Qwiklabs</a></p>
-
 <p><img src="https://cdn.qwiklabs.com/BdHhsSqcZEcrgbIUrIOEbArWk44zGxF%2BBPPn17RsHss%3D" alt="" width="149" height="135" /> <img src="https://cdn.qwiklabs.com/eDNTrtKj%2BqMfiuhqn6nA8quJGgcjTNHN%2F%2BTmpqIn0Sc%3D" width="149" height="135" /> <img src="https://cdn.qwiklabs.com/znPFC7VEHnvvrQzRpryh2sUTnfeIluXXbbyrj9oFSD0%3D" alt="" width="149" height="135" /> <img src="https://cdn.qwiklabs.com/%2Ba%2BLfd1vxwXnr5ZOOv6ikKOE0QDqy62aV21r0l4b4ks%3D" alt="" width="149" height="135" /> <img src="https://cdn.qwiklabs.com/d8GQx%2FM2wXW44CgxdyBWoc3dGdNpgLQMN1bFvePgZPA%3D" alt="" width="149" height="135" /> <img src="https://cdn.qwiklabs.com/KKo25c6cDv5W1cfAH%2BA3bUTAb3yWJwePovj3iDvmI8Q%3D" alt="" width="149" height="135" /> <img src="https://cdn.qwiklabs.com/Cbalaga6hDfK24%2FP3qKUmSNiXOY1aHbsnj2nRETk4Cg%3D" alt="" width="149" height="135" />&nbsp;<img src="https://cdn.qwiklabs.com/bWAeRBJNl9ENT%2B%2F%2FYwynddPswnVP9o2EtsDpMw4rVHc%3D" alt="" width="149" height="135" /></p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><img src="https://cdn.qwiklabs.com/UZLH%2F8n0ULT4OYJPQtS7VD3jfhrtOneTgbB6P5BNrUM%3D" alt="" width="165" height="109" />&nbsp;<img src="https://cdn.qwiklabs.com/nfpOK9orYE%2BYPBPDaK0OaqsYrl%2Bd8P65%2BuHEM30w6Lc%3D" alt="" width="165" height="110" /> <img src="https://cdn.qwiklabs.com/Iq6U5qCbrNP0GYjuu3ekilm6w80lPQby%2Be3g4FTAvYw%3D" alt="" width="165" height="110" />&nbsp;<img src="https://cdn.qwiklabs.com/07kUwYDVqqrkI1U8YT6HnUqEu2BPap32XKmsObf%2Fr%2FE%3D" alt="" width="165" height="110" /></p>
-
 <h2>Huawei ITC Academy -&nbsp; Lista de Certificados</h2>
 <p>&nbsp;</p>
 <ul>
