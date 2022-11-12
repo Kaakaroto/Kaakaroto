@@ -1,8 +1,8 @@
 <p><img src="https://github.com/Kaakaroto/Kaakaroto/blob/main/16a38247039466.jpeg?raw=true" alt="" width="1107" height="161" /></p>
 <h1>Hello World</h1>
 <p>Ol&aacute;! Sou o <strong>Felipe Silva</strong>, apaixonado por tecnologia, autodidata, din&acirc;mico e entusiasta a sempre aprender e reaprender algo novo todos os dias.</p>
-<p>Atualmente fa&ccedil;o gradua&ccedil;&atilde;o de Data Science e especializa&ccedil;&atilde;o em Engenharia em Data Cloud (Google), Intelig&ecirc;ncia artifical (Huawei) e a Forma&ccedil;&atilde;o de Cientista de dados na DSA - Data Science Academy, trabalho como Analista de Desenvolvimento Comercial Pleno na Cielo.</p>
-<p>Sigo meus estudos com o foco em Data Science, DataOps e Data Cloud.</p>
+<p>Apaixonado por Data Analytics, graduado em Ci&ecirc;ncia de Dados e com certifica&ccedil;&atilde;o profissional de an&aacute;lise de dados pela Google, e Arquitetura e Infraestrutura em Cloud, com experiencia em business intelligence, metodologias &aacute;geis e conhecimento em diversas ferramentas e t&eacute;cnicas afim de ajudar as empresas a tomada de decis&atilde;o orientada a dados.</p>
+<p>&nbsp;</p>
 <p><strong>Lifelong LearningLong Segue o plano!</strong></p>
 <h2>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px" /></h2>
 <p>&nbsp;</p>
@@ -21,8 +21,6 @@
 <p><img src="https://cdn.qwiklabs.com/iqoqbXh1llVpQNK6r%2BKhLiSI1UnRIcdnWFT4waHKXk0%3D" alt="" width="150" height="150" /></p>
 <h2>Google Badge</h2>
 <p style="text-align: left;"><a href="https://www.qwiklabs.com/public_profiles/b90e6d95-ef58-45a6-bfeb-9f6b5af5448a">Kakaroto Qwiklabs</a></p>
-<p>Sigo meus estudos com o foco em Data Science, DataOps e Data Cloud.</p>
-<p><strong>Segue o plano!</strong></p>
 <h2>&nbsp;</h2>
 <p><img src="https://cdn.qwiklabs.com/BdHhsSqcZEcrgbIUrIOEbArWk44zGxF%2BBPPn17RsHss%3D" alt="" width="149" height="135" /> <img src="https://cdn.qwiklabs.com/eDNTrtKj%2BqMfiuhqn6nA8quJGgcjTNHN%2F%2BTmpqIn0Sc%3D" width="149" height="135" /> <img src="https://cdn.qwiklabs.com/znPFC7VEHnvvrQzRpryh2sUTnfeIluXXbbyrj9oFSD0%3D" alt="" width="149" height="135" /> <img src="https://cdn.qwiklabs.com/%2Ba%2BLfd1vxwXnr5ZOOv6ikKOE0QDqy62aV21r0l4b4ks%3D" alt="" width="149" height="135" /> <img src="https://cdn.qwiklabs.com/d8GQx%2FM2wXW44CgxdyBWoc3dGdNpgLQMN1bFvePgZPA%3D" alt="" width="149" height="135" /> <img src="https://cdn.qwiklabs.com/KKo25c6cDv5W1cfAH%2BA3bUTAb3yWJwePovj3iDvmI8Q%3D" alt="" width="149" height="135" /> <img src="https://cdn.qwiklabs.com/Cbalaga6hDfK24%2FP3qKUmSNiXOY1aHbsnj2nRETk4Cg%3D" alt="" width="149" height="135" />&nbsp;<img src="https://cdn.qwiklabs.com/bWAeRBJNl9ENT%2B%2F%2FYwynddPswnVP9o2EtsDpMw4rVHc%3D" alt="" width="149" height="135" /></p>
 <p>&nbsp;</p>
